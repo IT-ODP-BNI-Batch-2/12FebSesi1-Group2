@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 WW Tanjaya
-=======
-ini geri
->>>>>>> origin/yosh-feature
+dwasd
